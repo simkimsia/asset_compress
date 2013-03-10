@@ -1,0 +1,7 @@
+{
+	"name": "simkimsia/asset_compress",
+	"type": "cakephp-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
